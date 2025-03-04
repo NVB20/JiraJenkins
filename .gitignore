@@ -1,0 +1,83 @@
+# Node.js / NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+*.pyc
+__pycache__/
+env/
+.venv/
+venv/
+
+# Docker
+**/docker-compose.override.yml
+**/Dockerfile
+.docker/
+docker-compose.yml
+
+# Java
+*.class
+*.jar
+*.war
+target/
+
+# Maven
+.mvn/
+target/
+
+# Jenkins
+*.log
+jenkins_home/
+
+# VSCode
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# System Files
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Kubernetes
+.kube/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Ansible
+*.retry
+*.yml
+
+# Secrets
+secrets.yml
+credentials.json
+
+# Other
+*.bak
+*.tmp
+*.swp
+*.swo
