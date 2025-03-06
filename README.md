@@ -42,7 +42,5 @@ To stop the containers, run:
 docker-compose down
 ```
 
-## License
-
-This project is open-source under the MIT License.
+![Alt text](images/Ci_workflow.png)
 
