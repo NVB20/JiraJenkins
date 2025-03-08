@@ -44,4 +44,9 @@ docker-compose down
 
 ![Alt text](images/Ci_workflow.png)
 
+# make sure to update all the jenkins plugins on the first rebot
 # Install the Jenkins for Jira (Official) app via Atlassian Marketplace
+# download Jira plugin in Jenkins (now its version 3.13)
+# install pipeline:groovy plugin
+# create an API Token in Jira
+# create Jenkins Credentials and configure jira in Jenkins with the credentials
