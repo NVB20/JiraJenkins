@@ -44,3 +44,4 @@ docker-compose down
 
 ![Alt text](images/Ci_workflow.png)
 
+# Install the Jenkins for Jira (Official) app via Atlassian Marketplace
