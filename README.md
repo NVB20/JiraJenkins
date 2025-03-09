@@ -54,4 +54,3 @@ docker-compose down
 
 -- expose the localhost jenkins with ngrok 
 -- use the public jenkins url that ngrok created to use for a github webhook
--- line for a commit

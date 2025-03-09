@@ -41,7 +41,3 @@ services:
     volumes:
       - jira_home:/var/atlassian/application-data/jira
 
-volumes:
-  jenkins_home:
-  postgres_data:
-  jira_home:
